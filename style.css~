@@ -1,8 +1,30 @@
-#menu { display: flex;
-		justify-cotent:right;
+
+nav { padding-left: 85%;
+
 		
 		
 		
 		
 
 }
+=======
+
+.menu
+{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content : flex-end;
+  
+}
+
+.element
+{
+ margin-top: 5px;
+  margin-bottom:8px;
+  margin-left:5px;
+
+  display:flex;
+
+}
+
+
