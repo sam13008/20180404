@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav { padding-left: 85%;
 
 		
@@ -6,3 +7,24 @@ nav { padding-left: 85%;
 		
 
 }
+=======
+
+.menu
+{
+  display:flex;
+  flex-wrap:wrap;
+  justify-content : flex-end;
+  
+}
+
+.element
+{
+ margin-top: 5px;
+  margin-bottom:8px;
+  margin-left:5px;
+
+  display:flex;
+
+}
+
+>>>>>>> 3cdfaf0e91e5495a6b0dd4a11f723f1f82691900
