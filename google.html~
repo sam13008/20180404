@@ -4,7 +4,7 @@
 <head>
 <link rel="stylesheet" type="text/css" href="style.css"/>
 
-<nav>
+<nav id="menu">
  <a href="http:mail.google.com">Gmail</a>
 			<a href="http://www.google.fr/imghp?hl=fr&tab=wi">Images</a>
 			<img src="imagehg.png" alt="identifiant">
