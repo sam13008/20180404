@@ -46,6 +46,7 @@
   border: 1px 1px 1px 1px;
   
   
+  
 }
 
 .boutons
@@ -70,4 +71,10 @@
  
   margin-bottom:8px;
   display:flex;
+}
+.footer1{ padding-bottom: 2px;
+margin-bottom: 0px;
+
+
+
 }

@@ -46,6 +46,7 @@
   border: 1px 1px 1px 1px;
   
   
+  
 }
 
 .boutons
@@ -53,9 +54,9 @@
  
   margin-bottom:8px;
   display:flex;
-  width: 200px;
-  height: 45px;
-  background-color: grey;
+  
+  
+
 }
 
 .bouton
@@ -70,4 +71,9 @@
  
   margin-bottom:8px;
   display:flex;
+}
+.footer1{ padding-bottom: 2px;
+
+
+
 }
